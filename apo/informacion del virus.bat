@@ -1,4 +1,4 @@
 @echo off
 cd %systemroot%\prueba-master\apo
-start "informacion virus.bat"
+start 456.bat
 exit
