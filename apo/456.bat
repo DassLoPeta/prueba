@@ -1,6 +1,6 @@
 @Echo off
 @Mode 48,15
-@Title %~n0
+Title info virus
 Batbox /h 0
 
 :Loop
